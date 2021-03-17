@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Pirates of the Caribbean*
+_Star Wars_
+
+**Harry Potter**
+__The Lord of the Rings__
+
+_Mao **dao** zu shi_
